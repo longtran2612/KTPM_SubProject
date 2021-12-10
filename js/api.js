@@ -4,5 +4,5 @@ const endpoint = {
     user:"/users/",
     cart:"/cart/"
 }
-const host = "http://ec2-54-255-235-138.ap-southeast-1.compute.amazonaws.com:9091";
+const host = "http://ec2-18-139-217-13.ap-southeast-1.compute.amazonaws.com:9091";
 
